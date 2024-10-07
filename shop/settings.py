@@ -94,7 +94,7 @@ WSGI_APPLICATION = "shop.wsgi.application"
 DATABASES = {
     "default": {
         "ENGINE": "django.db.backends.postgresql",
-        "NAME": "first_jango_project_db",
+        "NAME": "first_jango_project_update_db",
         "USER": "postgres",
         "PASSWORD": "1234",
         "HOST": "localhost",
@@ -155,3 +155,4 @@ INTERNAL_IPS = [
 # https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
+AUTH_USER_MODEL = "users.User"

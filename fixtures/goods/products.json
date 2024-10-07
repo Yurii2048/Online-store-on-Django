@@ -1,0 +1,170 @@
+[
+    {
+        "model": "goods.products",
+        "pk": 1,
+        "fields": {
+            "name": "Чайний столик і три стільця",
+            "slug": "chajnij-stolik-i-tri-stilcya",
+            "description": "Чайний столик і три стільця",
+            "image": "goods_images/set_of_tea_table_and_three_chairs.jpg",
+            "price": "150.00",
+            "discount": "10.00",
+            "quantity": 20,
+            "category": 6
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 2,
+        "fields": {
+            "name": "Чайний столик і два стільця",
+            "slug": "chajnij-stolik-i-dva-stilci",
+            "description": "Чайний столик і два стільця",
+            "image": "goods_images/set_of_tea_table_and_two_chairs.jpg",
+            "price": "93.00",
+            "discount": "50.00",
+            "quantity": 19,
+            "category": 6
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 3,
+        "fields": {
+            "name": "Двохспальне ліжко",
+            "slug": "dvohspalne-lizhko",
+            "description": "Двохспальне ліжко",
+            "image": "goods_images/double_bed.jpg",
+            "price": "670.00",
+            "discount": "5.00",
+            "quantity": 18,
+            "category": 5
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 4,
+        "fields": {
+            "name": "Кухонний стіл з раковиною",
+            "slug": "kuhonnij-stil-z-rakovinoyu",
+            "description": "Кухонний стіл з раковиною",
+            "image": "goods_images/kitchen_table.jpg",
+            "price": "365.00",
+            "discount": "0.00",
+            "quantity": 17,
+            "category": 4
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 5,
+        "fields": {
+            "name": "Кухонний стіл з вмонтуванням",
+            "slug": "kuhonnij-stil-z-vmontuvannyam",
+            "description": "Кухонний стіл з раковиною та вмонтуванням",
+            "image": "goods_images/kitchen_table_2.jpg",
+            "price": "430.00",
+            "discount": "0.00",
+            "quantity": 16,
+            "category": 4
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 6,
+        "fields": {
+            "name": "Кутовий диван для вітальні",
+            "slug": "kutovij-divan-dlya-vitalni",
+            "description": "Кутовий диван для вітальні",
+            "image": "goods_images/corner_sofa.jpg",
+            "price": "610.00",
+            "discount": "15.00",
+            "quantity": 15,
+            "category": 6
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 7,
+        "fields": {
+            "name": "Приліжкова тумбочка",
+            "slug": "prilizhkova-tumbochka",
+            "description": "Приліжкова тумбочка",
+            "image": "goods_images/bedside_table.jpg",
+            "price": "550.00",
+            "discount": "20.00",
+            "quantity": 14,
+            "category": 5
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 8,
+        "fields": {
+            "name": "Диван",
+            "slug": "divan",
+            "description": "Диван",
+            "image": "goods_images/sofa.jpg",
+            "price": "190.00",
+            "discount": "15.00",
+            "quantity": 13,
+            "category": 7
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 9,
+        "fields": {
+            "name": "Крісло офісне",
+            "slug": "krislo-ofisne",
+            "description": "Крісло офісне",
+            "image": "goods_images/office_chair.jpg",
+            "price": "30.00",
+            "discount": "35.00",
+            "quantity": 12,
+            "category": 7
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 10,
+        "fields": {
+            "name": "Вазонок",
+            "slug": "vazonok",
+            "description": "Вазонок",
+            "image": "goods_images/plants.jpg",
+            "price": "10.00",
+            "discount": "0.00",
+            "quantity": 11,
+            "category": 9
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 11,
+        "fields": {
+            "name": "Квітка стилізована",
+            "slug": "kvitka-stilizovana",
+            "description": "Квітка стилізована",
+            "image": "goods_images/flower.jpg",
+            "price": "15.00",
+            "discount": "0.00",
+            "quantity": 9,
+            "category": 9
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 12,
+        "fields": {
+            "name": "Приліжковий столик",
+            "slug": "prilizhkovij-stolik",
+            "description": "Приліжковий столик",
+            "image": "goods_images/strange_table.jpg",
+            "price": "25.00",
+            "discount": "60.00",
+            "quantity": 8,
+            "category": 5
+        }
+    }
+]
